@@ -36,43 +36,43 @@ Building clean, responsive & scalable web experiences.
 <table>
   <tr>
     <td align="center" width="50%">
-      <h3>🎨 Frontend Development</h3>
-      <img src="https://img.shields.io/badge/React-172033?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React" />
-      <img src="https://img.shields.io/badge/Tailwind_CSS-172033?style=for-the-badge&logo=tailwindcss&logoColor=06B6D4" alt="Tailwind CSS" />
+      <h3>Frontend</h3>
+      <img src="https://img.shields.io/badge/⚛_REACT-172033?style=flat-square&logo=react&logoColor=61DAFB" alt="React" />
+      <img src="https://img.shields.io/badge/〰_TAILWIND_CSS-172033?style=flat-square&logo=tailwindcss&logoColor=06B6D4" alt="Tailwind CSS" />
       <br/>
-      <img src="https://img.shields.io/badge/HTML5-172033?style=for-the-badge&logo=html5&logoColor=E34F26" alt="HTML5" />
-      <img src="https://img.shields.io/badge/CSS3-172033?style=for-the-badge&logo=css3&logoColor=1572B6" alt="CSS3" />
+      <img src="https://img.shields.io/badge/HTML5-172033?style=flat-square&logo=html5&logoColor=E34F26" alt="HTML5" />
+      <img src="https://img.shields.io/badge/CSS3-172033?style=flat-square&logo=css3&logoColor=1572B6" alt="CSS3" />
       <br/>
-      <img src="https://img.shields.io/badge/JavaScript-172033?style=for-the-badge&logo=javascript&logoColor=F7DF1E" alt="JavaScript" />
+      <img src="https://img.shields.io/badge/JAVASCRIPT-172033?style=flat-square&logo=javascript&logoColor=F7DF1E" alt="JavaScript" />
     </td>
     <td align="center" width="50%">
-      <h3>⚙️ Backend & Database</h3>
-      <img src="https://img.shields.io/badge/Node.js-172033?style=for-the-badge&logo=nodedotjs&logoColor=5FA04E" alt="Node.js" />
-      <img src="https://img.shields.io/badge/Express.js-172033?style=for-the-badge&logo=express&logoColor=FFFFFF" alt="Express.js" />
+      <h3>Backend</h3>
+      <img src="https://img.shields.io/badge/NODE.JS-172033?style=flat-square&logo=nodedotjs&logoColor=5FA04E" alt="Node.js" />
+      <img src="https://img.shields.io/badge/EXPRESS.JS-172033?style=flat-square&logo=express&logoColor=FFFFFF" alt="Express.js" />
       <br/>
-      <img src="https://img.shields.io/badge/MongoDB-172033?style=for-the-badge&logo=mongodb&logoColor=47A248" alt="MongoDB" />
+      <img src="https://img.shields.io/badge/MONGODB-172033?style=flat-square&logo=mongodb&logoColor=47A248" alt="MongoDB" />
     </td>
   </tr>
   <tr>
     <td align="center" width="50%">
-      <h3>🛠️ Tools & Deployment</h3>
-      <img src="https://img.shields.io/badge/Git-172033?style=for-the-badge&logo=git&logoColor=F05032" alt="Git" />
-      <img src="https://img.shields.io/badge/GitHub-172033?style=for-the-badge&logo=github&logoColor=FFFFFF" alt="GitHub" />
+      <h3>Tools</h3>
+      <img src="https://img.shields.io/badge/GIT-172033?style=flat-square&logo=git&logoColor=F05032" alt="Git" />
+      <img src="https://img.shields.io/badge/GITHUB-172033?style=flat-square&logo=github&logoColor=FFFFFF" alt="GitHub" />
       <br/>
-      <img src="https://img.shields.io/badge/VS_Code-172033?style=for-the-badge&logo=visualstudiocode&logoColor=007ACC" alt="VS Code" />
-      <img src="https://img.shields.io/badge/Postman-172033?style=for-the-badge&logo=postman&logoColor=FF6C37" alt="Postman" />
+      <img src="https://img.shields.io/badge/VS_CODE-172033?style=flat-square&logo=visualstudiocode&logoColor=007ACC" alt="VS Code" />
+      <img src="https://img.shields.io/badge/POSTMAN-172033?style=flat-square&logo=postman&logoColor=FF6C37" alt="Postman" />
       <br/>
-      <img src="https://img.shields.io/badge/Vercel-172033?style=for-the-badge&logo=vercel&logoColor=FFFFFF" alt="Vercel" />
+      <img src="https://img.shields.io/badge/VERCEL-172033?style=flat-square&logo=vercel&logoColor=FFFFFF" alt="Vercel" />
     </td>
     <td align="center" width="50%">
-      <h3>🚀 Core Skills</h3>
-      <img src="https://img.shields.io/badge/REST_APIs-0E7490?style=for-the-badge&logo=fastapi&logoColor=FFFFFF" alt="REST APIs" />
-      <img src="https://img.shields.io/badge/Authentication-0E7490?style=for-the-badge&logo=auth0&logoColor=FFFFFF" alt="Authentication" />
+      <h3>Core Skills</h3>
+      <img src="https://img.shields.io/badge/REST_APIs-0E7490?style=flat-square&logo=fastapi&logoColor=FFFFFF" alt="REST APIs" />
+      <img src="https://img.shields.io/badge/AUTHENTICATION-0E7490?style=flat-square&logo=auth0&logoColor=FFFFFF" alt="Authentication" />
       <br/>
-      <img src="https://img.shields.io/badge/CRUD_Operations-0E7490?style=for-the-badge&logo=databricks&logoColor=FFFFFF" alt="CRUD Operations" />
+      <img src="https://img.shields.io/badge/CRUD-0E7490?style=flat-square&logo=databricks&logoColor=FFFFFF" alt="CRUD operations" />
+      <img src="https://img.shields.io/badge/RESPONSIVE_UI-0E7490?style=flat-square&logo=responsive&logoColor=FFFFFF" alt="Responsive UI" />
       <br/>
-      <img src="https://img.shields.io/badge/Responsive_UI-0E7490?style=for-the-badge&logo=responsive&logoColor=FFFFFF" alt="Responsive UI" />
-      <img src="https://img.shields.io/badge/Deployment-0E7490?style=for-the-badge&logo=vercel&logoColor=FFFFFF" alt="Deployment" />
+      <img src="https://img.shields.io/badge/DEPLOYMENT-0E7490?style=flat-square&logo=vercel&logoColor=FFFFFF" alt="Deployment" />
     </td>
   </tr>
 </table>
