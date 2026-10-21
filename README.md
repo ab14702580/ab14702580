@@ -5,7 +5,7 @@
 
 
 <p align="center">
-  <b>Passionate Full-Stack Developer specializing in modern JavaScript frameworks, clean UI design, and scalable backend architecture.</b>
+  <b>Passionate MERN Stack Developer specializing in modern JavaScript frameworks, clean UI design, and scalable backend architecture.</b>
 </p>
 
 
