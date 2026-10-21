@@ -6,7 +6,7 @@
 <!-- TYPING TITLE WITH CURSOR -->
 <h1 align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=00F0FF&center=true&vcenter=true&width=550&lines=Hi+There!+%F0%9F%90%8B;I'm+Abdullah+Fahad;Full-Stack+Web+Developer;Building+Modern+%26+Scalable+Web+Apps&cursor=true" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=00F0FF&center=true&vcenter=true&width=550&lines=Hi+There!+%F0%9F%90%8B;I'm+Abdullah+Fahad%F0%9F%91%BD;Full-Stack+Web+Developer%E2%9A%A1;Building+Modern+%26+Scalable+Web+Apps%20%7C" alt="Typing SVG" />
   </a>
 </h1>
 
@@ -63,16 +63,14 @@
 
 ---
 
-### 📊 GitHub Analytics
+### 🐍 Contribution Activity
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" />
-  <br />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_GITHUB_USERNAME&theme=tokyonight&hide_border=true" alt="Streak Stats" />
+  <img src="https://raw.githubusercontent.com/YOUR_GITHUB_USERNAME/YOUR_GITHUB_USERNAME/output/github-contribution-grid-snake.svg" alt="Snake Animation" width="100%" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_GITHUB_USERNAME&theme=tokyo-night&area=true&hide_border=true" width="100%" />
 </p>
 
 ---
