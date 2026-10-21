@@ -1,6 +1,6 @@
 <!-- HEADER BANNER -->
 <p align="center">
-  <img src="https://i.ibb.co.com/wh42tLjb/39ecea72-26fa-4c4b-9034-746a427ee956.png" alt="Profile Banner" width="100%" />
+  <img src="https://i.ibb.co.com/bgpXm7zd/752ef56b-bf16-4a34-81c1-21f62bcfe3dc.jpg" alt="Profile Banner" width="100%" />
 </p>
 
 <h1 align="center">
