@@ -4,7 +4,12 @@
 </p>
 
 
-### HI I AM ABDULLAH
+<!-- TYPING TITLE WITH CURSOR & DARK BACKGROUND -->
+<h1 align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=00F0FF&background=0D1117&center=true&vcenter=true&width=550&lines=HI+I+AM+ABDULLAH%20%7C;Full-Stack+Web+Developer%E2%9A%A1%20%7C;Building+Modern+%26+Scalable+Web+Apps%20%7C" alt="Typing SVG" />
+  </a>
+</h1>
 
 ---
 
