@@ -3,11 +3,8 @@
   <img src="https://i.ibb.co.com/wh42tLjb/39ecea72-26fa-4c4b-9034-746a427ee956.png" alt="Profile Banner" width="100%" />
 </p>
 
-<!-- ALWAYS-VISIBLE NEON CURSOR TITLE -->
 <h1 align="center">
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=00F0FF&background=0D1117&center=true&vcenter=true&width=580&lines=HI+I+AM+ABDULLAH;Full-Stack+Web+Developer%E2%9A%A1;Building+Modern+%26+Scalable+Web+Apps&cursor=true&cursorColor=00F0FF" alt="Typing SVG" />
-  </a>
+  <font color="#00F0FF">HI I AM ABDULLAH</font>
 </h1>
 
 ---
