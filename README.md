@@ -4,10 +4,7 @@
 </p>
 
 
-<p align="center">
-  <b>Passionate MERN Stack Developer specializing in modern JavaScript frameworks, clean UI design, and scalable backend architecture.</b>
-</p>
-
+### HI I AM ABDULLAH
 
 ---
 
@@ -60,21 +57,7 @@
 ---
 
 
-### 📫 Connect With Me
 
-<p align="center">
-  <a href="mailto:your.email@example.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
-  <a href="https://linkedin.com/in/YOUR_LINKEDIN">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-  <a href="https://facebook.com/YOUR_FACEBOOK">
-    <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" />
-  </a>
-</p>
-
----
 
 <p align="center">
   <i>⚡ Designed with passion by Abdullah Fahad ⚡</i>
