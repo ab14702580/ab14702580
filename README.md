@@ -3,12 +3,6 @@
   <img src="https://i.ibb.co.com/wh42tLjb/39ecea72-26fa-4c4b-9034-746a427ee956.png" alt="Profile Banner" width="100%" />
 </p>
 
-<!-- TYPING TITLE WITH CURSOR -->
-<h1 align="center">
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=00F0FF&center=true&vcenter=true&width=550&lines=Hi+There!+%F0%9F%90%8B;I'm+Abdullah+Fahad%F0%9F%91%BD;Full-Stack+Web+Developer%E2%9A%A1;Building+Modern+%26+Scalable+Web+Apps%20%7C" alt="Typing SVG" />|
-  </a>
-</h1>
 
 <p align="center">
   <b>Passionate Full-Stack Developer specializing in modern JavaScript frameworks, clean UI design, and scalable backend architecture.</b>
