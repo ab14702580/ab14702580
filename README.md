@@ -1,8 +1,8 @@
 <!--
   GitHub Profile README
-  1. Create a public repository named exactly after your GitHub username.
-  2. Upload this README.md and the assets/mern-profile-banner.png file.
-  3. Replace YOUR_GITHUB_USERNAME and the example project links below.
+  Upload this README.md and the assets/mern-profile-banner.png file
+  to a public repository named exactly after your GitHub username.
+  Replace YOUR_GITHUB_USERNAME with your real GitHub username.
 -->
 
 <div align="center">
@@ -30,17 +30,64 @@ Building clean, responsive & scalable web experiences.
 - 🗄️ Working with MongoDB for data modeling and storage.
 - 🔐 Practicing authentication, CRUD operations, and secure API integration.
 - 🚀 Interested in clean code, maintainable architecture, and continuous learning.
-🧰 Tech Stack
+🧰 Tech Stack & Skills
 <div align="center">
 
-Frontend
-<img src="https://skillicons.dev/icons?i=react,tailwind,html,css,js" alt="Frontend skills" />
+Frontend Development
+<a href="https://react.dev/" title="React">
+  <img src="https://img.shields.io/badge/React-0B1220?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React" />
+</a>
+<a href="https://tailwindcss.com/" title="Tailwind CSS">
+  <img src="https://img.shields.io/badge/Tailwind_CSS-0B1220?style=for-the-badge&logo=tailwindcss&logoColor=06B6D4" alt="Tailwind CSS" />
+</a>
+<a href="https://developer.mozilla.org/en-US/docs/Web/HTML" title="HTML5">
+  <img src="https://img.shields.io/badge/HTML5-0B1220?style=for-the-badge&logo=html5&logoColor=E34F26" alt="HTML5" />
+</a>
+<a href="https://developer.mozilla.org/en-US/docs/Web/CSS" title="CSS3">
+  <img src="https://img.shields.io/badge/CSS3-0B1220?style=for-the-badge&logo=css3&logoColor=1572B6" alt="CSS3" />
+</a>
+<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" title="JavaScript">
+  <img src="https://img.shields.io/badge/JavaScript-0B1220?style=for-the-badge&logo=javascript&logoColor=F7DF1E" alt="JavaScript" />
+</a>
 
-Backend & Database
-<img src="https://skillicons.dev/icons?i=nodejs,express,mongodb" alt="Backend and database skills" />
+Backend Development
+<a href="https://nodejs.org/" title="Node.js">
+  <img src="https://img.shields.io/badge/Node.js-0B1220?style=for-the-badge&logo=nodedotjs&logoColor=5FA04E" alt="Node.js" />
+</a>
+<a href="https://expressjs.com/" title="Express.js">
+  <img src="https://img.shields.io/badge/Express.js-0B1220?style=for-the-badge&logo=express&logoColor=FFFFFF" alt="Express.js" />
+</a>
+<a href="https://www.mongodb.com/" title="MongoDB">
+  <img src="https://img.shields.io/badge/MongoDB-0B1220?style=for-the-badge&logo=mongodb&logoColor=47A248" alt="MongoDB" />
+</a>
 
-Tools
-<img src="https://skillicons.dev/icons?i=git,github,vscode,postman,vercel" alt="Development tools" />
+Tools & Deployment
+<a href="https://git-scm.com/" title="Git">
+  <img src="https://img.shields.io/badge/Git-0B1220?style=for-the-badge&logo=git&logoColor=F05032" alt="Git" />
+</a>
+<a href="https://github.com/" title="GitHub">
+  <img src="https://img.shields.io/badge/GitHub-0B1220?style=for-the-badge&logo=github&logoColor=FFFFFF" alt="GitHub" />
+</a>
+<a href="https://code.visualstudio.com/" title="VS Code">
+  <img src="https://img.shields.io/badge/VS_Code-0B1220?style=for-the-badge&logo=visualstudiocode&logoColor=007ACC" alt="VS Code" />
+</a>
+<a href="https://www.postman.com/" title="Postman">
+  <img src="https://img.shields.io/badge/Postman-0B1220?style=for-the-badge&logo=postman&logoColor=FF6C37" alt="Postman" />
+</a>
+<a href="https://vercel.com/" title="Vercel">
+  <img src="https://img.shields.io/badge/Vercel-0B1220?style=for-the-badge&logo=vercel&logoColor=FFFFFF" alt="Vercel" />
+</a>
+
+</div>
+
+Core Skills
+<div align="center">
+
+<img src="https://img.shields.io/badge/RESTful_APIs-00C9D8?style=flat-square&logo=fastapi&logoColor=07111F" alt="RESTful APIs" />
+<img src="https://img.shields.io/badge/Authentication-00C9D8?style=flat-square&logo=auth0&logoColor=07111F" alt="Authentication" />
+<img src="https://img.shields.io/badge/CRUD_Operations-00C9D8?style=flat-square&logo=databricks&logoColor=07111F" alt="CRUD Operations" />
+<img src="https://img.shields.io/badge/Responsive_UI-00C9D8?style=flat-square&logo=responsive&logoColor=07111F" alt="Responsive UI" />
+<img src="https://img.shields.io/badge/Deployment-00C9D8?style=flat-square&logo=vercel&logoColor=07111F" alt="Deployment" />
 
 </div>
 
@@ -69,8 +116,6 @@ Tools
 </table>
 
 📌 Featured Projects
-Replace or add project cards below with your best repositories and live demos.
-
 <table>
   <tr>
     <td width="50%" valign="top">
@@ -83,7 +128,7 @@ Replace or add project cards below with your best repositories and live demos.
     </td>
     <td width="50%" valign="top">
       <h3>💡 More Projects</h3>
-      Explore my repositories for additional experiments, applications, and development work.
+      Explore my repositories for additional applications and development work.
       <br/><br/>
       <a href="https://github.com/YOUR_GITHUB_USERNAME?tab=repositories">
         <img src="https://img.shields.io/badge/All_Repositories-View-111827?style=for-the-badge&logo=github&logoColor=white" alt="All repositories" />
