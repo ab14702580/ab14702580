@@ -7,7 +7,7 @@
 
 <div align="center">
 
-<img src="[https://ibb.co.com/KxW8nGSQ](https://i.ibb.co.com/wh42tLjb/39ecea72-26fa-4c4b-9034-746a427ee956.png)" alt="MERN Stack Developer — Build, Code, Deploy, Grow" width="100%" />
+<img src="https://i.ibb.co.com/wh42tLjb/39ecea72-26fa-4c4b-9034-746a427ee956.png" alt="MERN Stack Developer — Build, Code, Deploy, Grow" width="100%" />
 
 
 Hi, I'm a MERN Stack Developer 👋
