@@ -8,11 +8,6 @@
   <b>Passionate Full-Stack Developer specializing in modern JavaScript frameworks, clean UI design, and scalable backend architecture.</b>
 </p>
 
-<p align="center">
-  <a href="https://github.com/ab14702580">
-    <img src="https://komarev.com/ghpvc/?username=ab14702580&color=00f0ff&style=for-the-badge&label=PROFILE+VIEWS" alt="Profile Views" />
-  </a>
-</p>
 
 ---
 
