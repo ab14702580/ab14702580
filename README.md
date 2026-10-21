@@ -3,10 +3,10 @@
   <img src="https://i.ibb.co.com/wh42tLjb/39ecea72-26fa-4c4b-9034-746a427ee956.png" alt="Profile Banner" width="100%" />
 </p>
 
-<!-- TYPING TITLE -->
+<!-- TYPING TITLE WITH CURSOR -->
 <h1 align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=00F0FF&center=true&vcenter=true&width=500&lines=Hi+There!+%F0%9F%90%8B;I'm+Abdullah+Fahad;Full-Stack+Web+Developer;Building+Modern+%26+Scalable+Web+Apps" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=00F0FF&center=true&vcenter=true&width=550&lines=Hi+There!+%F0%9F%90%8B;I'm+Abdullah+Fahad;Full-Stack+Web+Developer;Building+Modern+%26+Scalable+Web+Apps&cursor=true" alt="Typing SVG" />
   </a>
 </h1>
 
