@@ -57,10 +57,6 @@
 <p align="center">
   <img src="https://raw.githubusercontent.com/abdullahfahad-dev/abdullahfahad-dev/output/github-contribution-grid-snake.svg" alt="Snake Animation" width="100%" />
 </p>
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=abdullahfahad-dev&theme=tokyo-night&area=true&hide_border=true" width="100%" />
-</p>
 ---
 
 
