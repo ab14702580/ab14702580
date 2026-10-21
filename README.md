@@ -7,7 +7,7 @@
 
 <div align="center">
 
-<img src="https://i.ibb.co.com/wh42tLjb/39ecea72-26fa-4c4b-9034-746a427ee956.png" alt="MERN Stack Developer — Build, Code, Deploy, Grow" width="100%" />
+<img src="assets/mern-profile-banner.png" alt="MERN Stack Developer — Build, Code, Deploy, Grow" width="100%" />
 
 
 Hi, I'm a MERN Stack Developer 👋
@@ -33,31 +33,49 @@ Building clean, responsive & scalable web experiences.
 🧰 Tech Stack & Skills
 <div align="center">
 
-FRONTEND
-<img src="https://img.shields.io/badge/REACT-0D1117?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React" />
-<img src="https://img.shields.io/badge/TAILWIND_CSS-0D1117?style=for-the-badge&logo=tailwindcss&logoColor=06B6D4" alt="Tailwind CSS" />
-<img src="https://img.shields.io/badge/HTML5-0D1117?style=for-the-badge&logo=html5&logoColor=E34F26" alt="HTML5" />
-<img src="https://img.shields.io/badge/CSS3-0D1117?style=for-the-badge&logo=css3&logoColor=1572B6" alt="CSS3" />
-<img src="https://img.shields.io/badge/JAVASCRIPT-0D1117?style=for-the-badge&logo=javascript&logoColor=F7DF1E" alt="JavaScript" />
-
-BACKEND & DATABASE
-<img src="https://img.shields.io/badge/NODE.JS-0D1117?style=for-the-badge&logo=nodedotjs&logoColor=5FA04E" alt="Node.js" />
-<img src="https://img.shields.io/badge/EXPRESS.JS-0D1117?style=for-the-badge&logo=express&logoColor=FFFFFF" alt="Express.js" />
-<img src="https://img.shields.io/badge/MONGODB-0D1117?style=for-the-badge&logo=mongodb&logoColor=47A248" alt="MongoDB" />
-
-TOOLS & DEPLOYMENT
-<img src="https://img.shields.io/badge/GIT-0D1117?style=for-the-badge&logo=git&logoColor=F05032" alt="Git" />
-<img src="https://img.shields.io/badge/GITHUB-0D1117?style=for-the-badge&logo=github&logoColor=FFFFFF" alt="GitHub" />
-<img src="https://img.shields.io/badge/VS_CODE-0D1117?style=for-the-badge&logo=visualstudiocode&logoColor=007ACC" alt="VS Code" />
-<img src="https://img.shields.io/badge/POSTMAN-0D1117?style=for-the-badge&logo=postman&logoColor=FF6C37" alt="Postman" />
-<img src="https://img.shields.io/badge/VERCEL-0D1117?style=for-the-badge&logo=vercel&logoColor=FFFFFF" alt="Vercel" />
-
-CORE SKILLS
-<img src="https://img.shields.io/badge/REST_APIs-06B6D4?style=for-the-badge&logo=fastapi&logoColor=0D1117" alt="REST APIs" />
-<img src="https://img.shields.io/badge/AUTHENTICATION-06B6D4?style=for-the-badge&logo=auth0&logoColor=0D1117" alt="Authentication" />
-<img src="https://img.shields.io/badge/CRUD-06B6D4?style=for-the-badge&logo=databricks&logoColor=0D1117" alt="CRUD operations" />
-<img src="https://img.shields.io/badge/RESPONSIVE_UI-06B6D4?style=for-the-badge&logo=responsive&logoColor=0D1117" alt="Responsive UI" />
-<img src="https://img.shields.io/badge/DEPLOYMENT-06B6D4?style=for-the-badge&logo=vercel&logoColor=0D1117" alt="Deployment" />
+<table>
+  <tr>
+    <td align="center" width="50%">
+      <h3>🎨 Frontend Development</h3>
+      <img src="https://img.shields.io/badge/React-172033?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React" />
+      <img src="https://img.shields.io/badge/Tailwind_CSS-172033?style=for-the-badge&logo=tailwindcss&logoColor=06B6D4" alt="Tailwind CSS" />
+      <br/>
+      <img src="https://img.shields.io/badge/HTML5-172033?style=for-the-badge&logo=html5&logoColor=E34F26" alt="HTML5" />
+      <img src="https://img.shields.io/badge/CSS3-172033?style=for-the-badge&logo=css3&logoColor=1572B6" alt="CSS3" />
+      <br/>
+      <img src="https://img.shields.io/badge/JavaScript-172033?style=for-the-badge&logo=javascript&logoColor=F7DF1E" alt="JavaScript" />
+    </td>
+    <td align="center" width="50%">
+      <h3>⚙️ Backend & Database</h3>
+      <img src="https://img.shields.io/badge/Node.js-172033?style=for-the-badge&logo=nodedotjs&logoColor=5FA04E" alt="Node.js" />
+      <img src="https://img.shields.io/badge/Express.js-172033?style=for-the-badge&logo=express&logoColor=FFFFFF" alt="Express.js" />
+      <br/>
+      <img src="https://img.shields.io/badge/MongoDB-172033?style=for-the-badge&logo=mongodb&logoColor=47A248" alt="MongoDB" />
+    </td>
+  </tr>
+  <tr>
+    <td align="center" width="50%">
+      <h3>🛠️ Tools & Deployment</h3>
+      <img src="https://img.shields.io/badge/Git-172033?style=for-the-badge&logo=git&logoColor=F05032" alt="Git" />
+      <img src="https://img.shields.io/badge/GitHub-172033?style=for-the-badge&logo=github&logoColor=FFFFFF" alt="GitHub" />
+      <br/>
+      <img src="https://img.shields.io/badge/VS_Code-172033?style=for-the-badge&logo=visualstudiocode&logoColor=007ACC" alt="VS Code" />
+      <img src="https://img.shields.io/badge/Postman-172033?style=for-the-badge&logo=postman&logoColor=FF6C37" alt="Postman" />
+      <br/>
+      <img src="https://img.shields.io/badge/Vercel-172033?style=for-the-badge&logo=vercel&logoColor=FFFFFF" alt="Vercel" />
+    </td>
+    <td align="center" width="50%">
+      <h3>🚀 Core Skills</h3>
+      <img src="https://img.shields.io/badge/REST_APIs-0E7490?style=for-the-badge&logo=fastapi&logoColor=FFFFFF" alt="REST APIs" />
+      <img src="https://img.shields.io/badge/Authentication-0E7490?style=for-the-badge&logo=auth0&logoColor=FFFFFF" alt="Authentication" />
+      <br/>
+      <img src="https://img.shields.io/badge/CRUD_Operations-0E7490?style=for-the-badge&logo=databricks&logoColor=FFFFFF" alt="CRUD Operations" />
+      <br/>
+      <img src="https://img.shields.io/badge/Responsive_UI-0E7490?style=for-the-badge&logo=responsive&logoColor=FFFFFF" alt="Responsive UI" />
+      <img src="https://img.shields.io/badge/Deployment-0E7490?style=for-the-badge&logo=vercel&logoColor=FFFFFF" alt="Deployment" />
+    </td>
+  </tr>
+</table>
 
 </div>
 
