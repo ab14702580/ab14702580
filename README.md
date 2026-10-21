@@ -60,6 +60,3 @@
 
 
 
-<p align="center">
-  <i>⚡ Designed with passion by Abdullah Fahad ⚡</i>
-</p>
