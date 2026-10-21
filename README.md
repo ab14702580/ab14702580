@@ -1,3 +1,7 @@
+<div align="center">
+  <img src="assets/profile-banner.png" alt="MERN Stack Developer profile banner" width="100%" />
+</div>
+
 <!--
   GitHub Profile README
   IMPORTANT: Replace YOUR_GITHUB_USERNAME and the placeholder links below with your own details.
